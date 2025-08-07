@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@langchain/core": "npm:/@langchain/core",
+    "@langchain/openai": "npm:/@langchain/openai",
+    "langchain": "npm:/langchain",
+    "lodash": "npm:/lodash@4.17.21"
+  },
+  "deno.enable": true
+}
