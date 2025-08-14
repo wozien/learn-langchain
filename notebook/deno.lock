@@ -2,6 +2,7 @@
   "version": "5",
   "specifiers": {
     "jsr:@std/dotenv@*": "0.225.5",
+    "npm:@langchain/core@*": "0.3.66_zod@3.25.76",
     "npm:@langchain/openai@*": "0.6.3_@langchain+core@0.3.66__openai@5.11.0___zod@3.25.76__zod@3.25.76_zod@3.25.76_openai@5.11.0__zod@3.25.76",
     "npm:langchain@*": "0.3.30_@langchain+core@0.3.66__zod@3.25.76_zod@3.25.76"
   },

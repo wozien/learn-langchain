@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "predb:qiu": "esno rag/pre-db.ts",
-    "ask:qiu": "esno rag/index.ts"
+    "ask:qiu": "esno rag/index.ts",
+    "rag:server": "esno rag/server.ts",
+    "rag:client": "esno rag/client.ts"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +22,8 @@
     "@langchain/community": "^0.3.49",
     "@langchain/core": "^0.3.66",
     "@langchain/openai": "^0.6.3",
+    "express": "^5.1.0",
+    "faiss-node": "^0.5.1",
     "langchain": "^0.3.30"
   }
 }
